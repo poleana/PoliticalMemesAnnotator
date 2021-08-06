@@ -11,5 +11,5 @@ Matrícula: 2012409
 
 Orientador: Sérgio Colcher
 
-O PDF com toda a documentação do projeto (finalidade, escopo, requisitos, projeto, arquitetura do sistema, testes e manual do usuário) pode ser encontrado na pasta documentation/documentacaoProjetoFinalProgramacao.pdf ou clicando [aqui](documentation/documentacaoProjetoFinalProgramacao.pdf).
+O PDF com toda a documentação do projeto (finalidade, escopo, requisitos, projeto, arquitetura do sistema, testes e manual do usuário) pode ser encontrado na pasta documentation/documentacaoPFP_PolyanaCosta.pdf ou clicando [aqui](documentation/documentacaoPFP_PolyanaCosta.pdf).
 Qualquer dúvida, entrar em contato com *polyanabcosta@gmail.com*.
