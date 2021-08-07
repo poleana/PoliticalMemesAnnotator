@@ -1,5 +1,6 @@
 from callbackManager import * 
 '''
+Aluna: Polyana Bezerra da Costa
 Rodar o app e renderizar a página no navegador
 '''
 

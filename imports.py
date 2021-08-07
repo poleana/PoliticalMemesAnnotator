@@ -1,4 +1,5 @@
 '''
+Aluna: Polyana Bezerra da Costa
 As dependências usadas na maior parte do projeto estão nesse arquivo
 '''
 import dash

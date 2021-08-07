@@ -1,5 +1,6 @@
 class Annotation:
 	'''
+	Aluna: Polyana Bezerra da Costa
 	A classe Annotation guarda todos os dados anotados numa mesma imagem. Essa classe recebe como parâmetro um identificador para
 	a anotação daquela imagem, o nome da imagem em si e uma instância do dataset em que aquela anotação será incluída. A classe
 	ainda tem como parâmetro a variável "isFake", que diz se a imagem apresenta conteúdo falso ou não, além da variável "elements",

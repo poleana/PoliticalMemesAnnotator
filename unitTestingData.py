@@ -9,6 +9,10 @@ from core import object
 from core import box
 from googleVisionAPI import *
 
+'''
+Aluna: Polyana Bezerra da Costa
+'''
+
 testeImagePath = 'images/boulos1.png'
 jsonFileName = ""
 '''Criando uma instância de Dataset'''

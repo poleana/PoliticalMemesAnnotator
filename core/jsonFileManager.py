@@ -10,7 +10,6 @@ import os
 import random
 
 '''
-
 Aluna: Polyana Bezerra da Costa
 Essa classe representa o gerenciador de arquivos json do sistema, responsável por gerar os .jsons referentes às anotações,
 escrevê-los ou apagáa-los do disco, bem como ler um arquivo .json e gerar o objeto do tipo Annotation correspondente.

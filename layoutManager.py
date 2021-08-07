@@ -4,6 +4,7 @@ from flask import Flask, send_from_directory
 
 
 '''
+Aluna: Polyana Bezerra da Costa
 Esse arquivo contém o layout e componentes HTML referentes à interface do sistema.
 '''
 

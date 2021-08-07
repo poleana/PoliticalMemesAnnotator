@@ -1,4 +1,5 @@
 '''
+Aluna: Polyana Bezerra da Costa
 Essa classe contém todas as informações dos objetos do tipo "Geral" (objeto geral, que não é Face nem Texto),
 que sao usadas como elementos na classe AnnotationPart. Um Object guarda o número identificador de um objeto, 
 o nome (value) e uma possível descrição(não é obrigatório informar uma descrição) para esse objeto. 

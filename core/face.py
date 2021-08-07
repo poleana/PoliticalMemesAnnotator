@@ -2,6 +2,7 @@ from core.object import Object
 from PIL import Image
 
 '''
+Aluna: Polyana Bezerra da Costa
 Essa classe contém todas as informações dos objetos do tipo "Face", que sao usadas como elementos na classe AnnotationPart.
 Um objeto do tipo Face guarda informações sobre a imagem em que aquela face foi anotada e a região da imagem onde a referida
 face está.

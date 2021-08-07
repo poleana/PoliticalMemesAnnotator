@@ -1,6 +1,7 @@
 from layoutManager import *
 
 '''
+Aluna: Polyana Bezerra da Costa
 Esse arquivo contém todas as callbacks referentes à interação do usuário com a interface do sistema.
 Todas as informações que o usuário inseriu são coletadas por meio dessas callbacks e a resposta às
 interações também são fornecidas por essas callbacks. 

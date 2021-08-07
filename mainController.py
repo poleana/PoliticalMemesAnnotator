@@ -16,6 +16,7 @@ from core import jsonFileManager
 from googleVisionAPI import *
 
 '''
+Aluna: Polyana Bezerra da Costa
 Esse arquivo representa o Controller que faz a mediação entre as Views do sistema (representadas no arquivo layoutManager)
 e o Model (representado pelas classes do pacote Core e funções da API Vision), onde estão as regras de negócio do sistema.
 '''

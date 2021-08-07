@@ -1,5 +1,6 @@
 from core.object import Object
 '''
+Aluna: Polyana Bezerra da Costa
 Essa classe contém todas as informações dos objetos do tipo "Text", que sao usadas como elementos na classe AnnotationPart.
 Um objeto do tipo Text guarda informações sobre a "label" ou "tag"(variável value) que representa a transcrição de um texto
 presente na imagem, bem como o resultado do serviço de OCR (caso tenha sido aplicado na imagem).

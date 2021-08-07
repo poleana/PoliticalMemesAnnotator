@@ -1,6 +1,8 @@
 import unittest
 from unitTestingData import *
-
+'''
+Aluna: Polyana Bezerra da Costa
+'''
 class Tests(unittest.TestCase):
     
     #Testando a criação de um dataset
